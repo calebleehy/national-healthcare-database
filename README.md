@@ -2,7 +2,7 @@
 
 By Caleb Lee
 
-Video overview: <https://www.youtube.com/watch?v=uqXb24G4yGg&ab_channel=CalebLee>
+[Video overview](https://www.youtube.com/watch?v=uqXb24G4yGg&ab_channel=CalebLee)
 
 ## Scope
 
